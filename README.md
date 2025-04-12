@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ### **1. Set Up the Dataset**
 
-Ensure that all images are stored in the **`/data/merged/`** folder, and the **`HAM10000_metadata_updated.csv`** file is in the **`/data/`** folder.
+Ensure that all images are stored in the **`/data/merged/`** folder, and use the **`HAM10000_metadata_updated.csv`** file is in the **`/data/`** folder.
 
 ### **2. Train the Model**
 
